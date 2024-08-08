@@ -13,5 +13,6 @@ models' ability to correctly classify these images. The 4 models we used include
 
 ## 3. How to run:
 Once the dataset is downloaded to your Google Drive, this code is meant to be run in a linear fashion from top to bottom 
-in order of how the cells are placed. Once all cells have been run, the demo cell can be run seperately to test a variaty of images
-from the dataset.
+in order of how the cells are placed. Once all cells have been run, the demo cell can be run seperately to test a variety of images from the dataset.
+
+In order to do this you have to import the dataset into your drive, then pull images from the drive into the code. Specifically the "_image_path_" function. Copy and paste the file path into this section and run. It will print out the test image, along side the result of what the model has predicted the image to be. 
