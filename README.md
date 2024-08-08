@@ -11,7 +11,7 @@ models' ability to correctly classify these images. The 4 models we used include
 3. SVM: provided an 86.4% accuracy.
 4. CNN: provided a 75% accuracy
 
-##3. How to run:
+## 3. How to run:
 Once the dataset is downloaded to your Google Drive, this code is meant to be run in a linear fashion from top to bottom 
 in order of how the cells are placed. Once all cells have been run, the demo cell can be run seperately to test a variaty of images
 from the dataset.
